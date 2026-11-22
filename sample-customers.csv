@@ -1,0 +1,4 @@
+customerId,gender,tenure,contract,monthlyCharges,totalCharges,churned
+CSV-DEMO-2211,Female,12,One year,65.50,786.00,false
+CSV-DEMO-2212,Male,3,Month-to-month,45.25,135.75,true
+CSV-DEMO-2211,Female,12,One year,65.50,786.00,false
